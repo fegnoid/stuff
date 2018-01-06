@@ -7,7 +7,7 @@
           }
         }
       },
-"resource" : {
+"resource" : {p
   "azurerm_virtual_network":{
      "test": {
      "name"                : "acctvn",
